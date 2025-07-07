@@ -1,0 +1,87 @@
+SPEAKER_00 [0.00 - 3.00]: The Jerogan experience.
+SPEAKER_00 [3.00 - 10.00]: So, how, after the case is closed, what is life like for you?
+SPEAKER_00 [10.00 - 15.00]: Like, how do you, I mean, you had to be worried about your life?
+SPEAKER_01 [15.00 - 25.00]: Yeah, well, what happened is once they found out the commission put a $500,000 contract on me.
+SPEAKER_01 [26.00 - 39.00]: And the New York office of the FBI went to every boss and told them they better not think of, you know, trying to cash in on it.
+SPEAKER_01 [39.00 - 53.00]: So, I was working out of Washington and out of Quantico and family's moved.
+SPEAKER_00 [53.00 - 58.00]: I think we got like five or six moves since then, you know, you try to back everything.
+SPEAKER_01 [58.00 - 64.00]: The Bureau was good about that.
+SPEAKER_01 [64.00 - 74.00]: But, you know, what's in the back of your mind is not the legitimate gangster.
+SPEAKER_00 [74.00 - 78.00]: You know, it's some cowboy that thinks, hey, you know, God, I think.
+SPEAKER_00 [78.00 - 82.00]: Yeah, there's not any brass coal, you know, if I take him out, we're in.
+SPEAKER_00 [82.00 - 83.00]: Right.
+SPEAKER_00 [83.00 - 90.00]: Which, and I don't think anybody was going to pay anybody 500,000.
+SPEAKER_00 [90.00 - 96.00]: You think the mob is, they don't use their old money for, you know, for squat.
+SPEAKER_01 [96.00 - 98.00]: So, yeah.
+SPEAKER_00 [98.00 - 104.00]: But that's the only thing that you worry about is, you know, some cowboy, you know.
+SPEAKER_00 [104.00 - 109.00]: How long was it before you stopped worrying about that?
+SPEAKER_01 [109.00 - 111.00]: Well, you never really do.
+SPEAKER_00 [111.00 - 121.00]: I mean, you know, you know, yeah, yeah, you know, because there's always somebody that thinks
+SPEAKER_01 [121.00 - 125.00]: they're, you know, they're going to be famous about doing something.
+SPEAKER_00 [125.00 - 126.00]: Right.
+SPEAKER_00 [126.00 - 127.00]: You know that.
+SPEAKER_00 [127.00 - 128.00]: Right.
+SPEAKER_00 [128.00 - 138.00]: So, but it was, it was more prevalent back in the, you know, back in the day.
+SPEAKER_01 [139.00 - 148.00]: You know, as is in the most of my guys now are, I don't know any of them that are alive, actually.
+SPEAKER_00 [148.00 - 150.00]: Did you keep in touch with any of those guys?
+SPEAKER_01 [150.00 - 151.00]: No, no, no.
+SPEAKER_01 [151.00 - 158.00]: My whole thing and undercover Joe was, I never arrested anybody that I worked against.
+SPEAKER_01 [158.00 - 162.00]: My whole thing was, I did the undercover.
+SPEAKER_01 [162.00 - 166.00]: You make the arrest, I'll see him in court.
+SPEAKER_01 [166.00 - 167.00]: Yeah, yeah.
+SPEAKER_01 [167.00 - 182.00]: Funny, we, you always sit down with the, after the case is over, you sit down with the
+SPEAKER_01 [182.00 - 189.00]: the profilers and everything and they say, well, we think the sky'll turn this guy.
+SPEAKER_01 [189.00 - 195.00]: Not one of my guys, when I say my guys, ever became an informant.
+SPEAKER_01 [195.00 - 196.00]: Really?
+SPEAKER_01 [196.00 - 197.00]: Never.
+SPEAKER_01 [197.00 - 198.00]: Wow.
+SPEAKER_00 [198.00 - 210.80]: The, one of the prosecutors in Milwaukee, he said, he said, I think we should go talk to
+SPEAKER_01 [210.80 - 211.80]: Jerry.
+SPEAKER_01 [211.80 - 213.80]: I said, you fuck it crazy.
+SPEAKER_01 [213.80 - 218.80]: I said, you walk in there and mention my name, he'll go crazy.
+SPEAKER_01 [218.80 - 221.80]: He said, exactly what happened.
+SPEAKER_01 [221.80 - 223.80]: Exactly what happened.
+SPEAKER_01 [223.80 - 224.80]: Yeah.
+SPEAKER_01 [224.80 - 225.80]: Yeah.
+SPEAKER_01 [225.80 - 226.80]: He did 15.
+SPEAKER_01 [226.80 - 227.80]: He did 15.
+SPEAKER_01 [227.80 - 228.80]: Never cracked.
+SPEAKER_01 [228.80 - 239.80]: The only reason they let him out was he had, they found out he had, he had, he had, he
+SPEAKER_01 [239.80 - 244.88]: had, I don't know if it was gum cancer or whatever.
+SPEAKER_01 [244.88 - 250.52]: And then he had, one lung taken out and then he had cancer in the other lung so he had like
+SPEAKER_01 [250.52 - 253.48]: three or four months to live.
+SPEAKER_01 [253.48 - 260.32]: So he was such a pain in the ass and the, for the department of corrections that they
+SPEAKER_01 [260.32 - 261.32]: let him out.
+SPEAKER_01 [261.32 - 263.32]: He died at home.
+SPEAKER_01 [263.32 - 264.32]: Yeah.
+SPEAKER_00 [264.32 - 269.40]: But he didn't crack or sunny.
+SPEAKER_00 [269.40 - 274.56]: Sonny had a shot and he, he said, no, none of them, none of them.
+SPEAKER_00 [274.56 - 276.52]: They tried to turn all of them, huh?
+SPEAKER_01 [276.52 - 277.52]: Yeah.
+SPEAKER_01 [277.52 - 278.88]: They all went to the can.
+SPEAKER_01 [278.88 - 283.12]: They all did like 15, 20 years.
+Unknown [283.12 - 284.12]: Yeah.
+SPEAKER_00 [284.12 - 285.12]: Wild.
+SPEAKER_01 [285.12 - 287.12]: Wild is right.
+SPEAKER_01 [287.12 - 293.12]: I mean, now, as soon as they, as soon as they put the last click on the handcuffs, they're
+SPEAKER_01 [293.12 - 294.12]: all you want to talk.
+SPEAKER_00 [294.12 - 295.12]: Right?
+SPEAKER_00 [295.12 - 296.12]: Yeah.
+SPEAKER_00 [296.12 - 297.12]: Yeah.
+SPEAKER_00 [297.12 - 298.12]: Now.
+SPEAKER_01 [298.12 - 299.12]: Yeah.
+SPEAKER_01 [299.12 - 300.12]: Yeah.
+SPEAKER_01 [300.00 - 305.52]: I mean, they all, they all got hits on their belt, but soon as they put those
+SPEAKER_01 [305.52 - 309.28]: cushion on them, you know, some of the guys they do their time, but eventually
+SPEAKER_00 [309.28 - 314.20]: they turn none of those guys became snitches. What do you think happened to
+SPEAKER_00 [314.20 - 319.68]: this the culture of the mob where these guys started snitching? They didn't want to
+SPEAKER_01 [319.68 - 323.28]: do the time. I mean, some of them did time, some of them did seven, eight years,
+SPEAKER_01 [323.28 - 328.00]: you know, but then I think when they still, when they kept getting beat over the
+SPEAKER_01 [328.00 - 332.04]: head, you know, they figured out what good is. And you know what the culture and
+SPEAKER_01 [332.04 - 344.84]: the mob has changed to I found near the end. These guys then, to the old
+SPEAKER_01 [344.84 - 351.76]: timers, this was like their life, you know, they were really committed to it. It
+SPEAKER_01 [351.76 - 359.20]: was the younger guys, it's a me generation, just like normal citizens. They
+SPEAKER_00 [359.20 - 365.88]: wanted now. They don't want to, I mean, I don't know, like the old timers, they
+SPEAKER_01 [365.88 - 373.60]: could, they could cultivate politicians, they could cultivate law enforcement.
+SPEAKER_00 [373.60 - 378.92]: These guys today, you know, that they can't cultivate politicians and judges
+SPEAKER_00 [378.92 - 381.84]: like the old timers did.

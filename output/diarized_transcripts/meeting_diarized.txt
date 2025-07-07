@@ -1,0 +1,24 @@
+SPEAKER_02 [0.00 - 4.36]: Hello everyone, thank you guys for coming to our weekly student success meeting.
+SPEAKER_02 [4.36 - 6.48]: And let's just get started.
+SPEAKER_02 [6.48 - 11.88]: So I have our list of chronically absent students here and I've been noticing a troubling trend.
+SPEAKER_02 [11.88 - 16.68]: A lot of students are skipping on Fridays. Does anyone have any idea what's going on?
+SPEAKER_01 [16.68 - 21.40]: I've heard some of my mentees talking about how it's really hard to get out of bed on Fridays.
+SPEAKER_01 [21.40 - 25.68]: It might be good if we did something like a pancake breakfast to encourage them to come.
+SPEAKER_00 [25.68 - 29.08]: I think that's a great idea. Let's try that next week.
+SPEAKER_00 [30.08 - 34.36]: It might also be because a lot of students have been getting sick now that it's getting colder outside.
+SPEAKER_00 [34.36 - 38.28]: I've had a number of students come by my office with symptoms like sniffling and coughing.
+SPEAKER_00 [38.28 - 41.88]: We should put up posters with tips for not getting sick since it's almost flu season.
+SPEAKER_00 [41.88 - 44.60]: Like, you know, wash your hands after the bathroom. Stuff like that.
+SPEAKER_02 [44.60 - 49.28]: I think that's a good idea and it'll be a good reminder for the teachers as well.
+SPEAKER_02 [49.28 - 54.12]: So one other thing I wanted to talk about, there's a student I've noticed here, John Smith.
+SPEAKER_02 [54.12 - 57.52]: He's missed seven days already and it's only November.
+SPEAKER_02 [57.64 - 60.40]: Does anyone have an idea what's going on with him?
+SPEAKER_01 [60.40 - 65.04]: I might be able to fill in the gaps there. I talked to John today and he's really stressed out.
+SPEAKER_01 [65.04 - 69.92]: He's been dealing with helping his parents take care of his younger siblings during the day.
+SPEAKER_01 [69.92 - 73.60]: It might actually be a good idea if he spoke to the guidance counselor a little bit.
+SPEAKER_03 [73.60 - 77.84]: I can talk to John today if you want to send him to my office after you meet with him.
+SPEAKER_03 [77.84 - 80.80]: It's a lot to deal with for middle schooler.
+SPEAKER_03 [80.80 - 84.72]: Great thanks and I can help out with the family's childcare needs.
+SPEAKER_03 [84.72 - 91.12]: I'll look for some free or low-cost resources in the community to share with John and he can share them with his family.
+SPEAKER_02 [91.12 - 93.60]: Great, well some really good ideas here today.
+SPEAKER_02 [93.60 - 98.24]: Thanks for coming and if no one has anything else I think we can wrap up.

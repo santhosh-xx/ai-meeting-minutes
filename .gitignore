@@ -1,0 +1,61 @@
+# ===== ENVIRONMENTS =====
+meeting_env/
+env/
+venv/
+.venv/
+
+# ===== PYTHON FILES =====
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ===== MODELS / LARGE FILES =====
+models/
+*.pt
+*.pth
+*.pkl
+*.pickle
+*.h5
+*.ckpt
+*.joblib
+
+# ===== AUDIO / VIDEO FILES =====
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.avi
+
+# ===== JUPYTER & NOTEBOOKS =====
+.ipynb_checkpoints/
+*.ipynb~
+
+# ===== SYSTEM FILES =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# ===== IDE / EDITOR SETTINGS =====
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===== LOGS / TEMP FILES =====
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# ===== GIT =====
+.git/
+.gitattributes
