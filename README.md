@@ -1,7 +1,7 @@
 
 # 🧠 AI Meeting Minutes
 
-Automated meeting understanding pipeline — transcribes audio, performs speaker diarization, extracts action items, generates summaries, and exports everything into a neat PDF report. No more manually writing minutes!
+ - transcribes audio, performs speaker diarization, extracts action items, generates summaries, and exports everything into a neat PDF report. No more manually writing minutes!
 
 ---
 
